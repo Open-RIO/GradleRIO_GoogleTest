@@ -1,0 +1,3 @@
+rootProject.name = "gradlerio_googletest"
+
+include ":robot", ":subsystems"
